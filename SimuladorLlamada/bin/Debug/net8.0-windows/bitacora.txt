@@ -1,0 +1,389 @@
+27/06/2025: {
+  "numero": "#9090*",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "9876543210987654321",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "saldo"
+}
+27/06/2025: {
+  "numero": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "9876543210987654321",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "llamada",
+  "destino": "88765432",
+  "tiempo": "1041000"
+}
+27/06/2025: {
+  "numero": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "9876543210987654321",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "llamada",
+  "destino": "88765432",
+  "tiempo": "1041000"
+}
+28/06/2025: {
+  "numero": "#9090*",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "9876543210987654321",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "saldo"
+}
+28/06/2025: {
+  "numero": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "9876543210987654321",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "llamada",
+  "destino": "88765432",
+  "tiempo": "1041000"
+}
+28/06/2025: {
+  "numero": "80987654",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "9876543210987654321",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "llamada",
+  "destino": "80987654",
+  "tiempo": "084500"
+}
+28/06/2025: {
+  "numero": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "9876543210987654321",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "llamada",
+  "destino": "88765432",
+  "tiempo": "1041000"
+}
+28/06/2025: {
+  "numero": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "9876543210987654321",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalizacion",
+  "destino": "88765432",
+  "duracion": "000015"
+}
+28/06/2025: {
+  "numero": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "9876543210987654321",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalizacion",
+  "destino": "88765432",
+  "duracion": "000010"
+}
+28/06/2025: {
+  "numero": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "9876543210987654321",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "rebajo",
+  "destino": "88765432",
+  "duracion": "000013",
+  "fecha": "20250628",
+  "hora": "132234",
+  "costo": 0.0
+}
+28/06/2025: {
+  "numero": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "9876543210987654321",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "rebajo",
+  "destino": "88765432",
+  "duracion": "000013",
+  "fecha": "20250628",
+  "hora": "133120",
+  "costo": 0.0
+}
+28/06/2025: {
+  "numero": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "9876543210987654321",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "rebajo",
+  "destino": "88765432",
+  "duracion": "000029",
+  "fecha": "20250628",
+  "hora": "133136",
+  "costo": 0.0
+}
+28/06/2025: {
+  "numero": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "9876543210987654321",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "rebajo",
+  "destino": "88765432",
+  "duracion": "000012",
+  "fecha": "20250628",
+  "hora": "133423",
+  "costo": 0.0
+}
+28/06/2025: {
+  "numero": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "9876543210987654321",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "88765432",
+  "duracion": "000004",
+  "fecha": "20250628",
+  "hora": "133707",
+  "costo": 0.0
+}
+28/06/2025: {
+  "numero": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "9876543210987654321",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "88765432",
+  "duracion": "000005",
+  "fecha": "20250628",
+  "hora": "134335",
+  "costo": 0.0
+}
+28/06/2025: {
+  "numero": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "9876543210987654321",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "88765432",
+  "duracion": "000006",
+  "fecha": "20250628",
+  "hora": "135256",
+  "costo": 8.993563182527302
+}
+28/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "87654321",
+  "duracion": "000009",
+  "fecha": "20250628",
+  "hora": "135909",
+  "costo": 0.0
+}
+28/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "87654321",
+  "duracion": "000004",
+  "fecha": "20250628",
+  "hora": "140137",
+  "costo": 0.0
+}
+28/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "87654321",
+  "duracion": "000010",
+  "fecha": "20250628",
+  "hora": "140407",
+  "costo": 0.0
+}
+28/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "87654321",
+  "duracion": "000008",
+  "fecha": "20250628",
+  "hora": "140748",
+  "costo": 0.0
+}
+28/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "87654321",
+  "duracion": "000003",
+  "fecha": "20250628",
+  "hora": "141224",
+  "costo": 0.45223012
+}
+28/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "87654321",
+  "duracion": "000047",
+  "fecha": "20250628",
+  "hora": "141332",
+  "costo": 6.280090573333334
+}
+28/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "87654321",
+  "duracion": "000026",
+  "fecha": "20250628",
+  "hora": "141629",
+  "costo": 3.5101281199999996
+}
+28/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "88997766",
+  "duracion": "000032",
+  "fecha": "20250628",
+  "hora": "150658",
+  "costo": 4.382177319999999
+}
+28/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "88997766",
+  "duracion": "000033",
+  "fecha": "20250628",
+  "hora": "152324",
+  "costo": 4.5099227200000005
+}
+28/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "712345680",
+  "duracion": "000026",
+  "fecha": "20250628",
+  "hora": "223612",
+  "costo": 3.508142413333333
+}
+28/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "712345680",
+  "duracion": "000648",
+  "fecha": "20250628",
+  "hora": "224234",
+  "costo": 54.44741992
+}
+28/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "88997766",
+  "duracion": "000045",
+  "fecha": "20250628",
+  "hora": "234337",
+  "costo": 6.0103257333333335
+}
+28/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "765432102",
+  "duracion": "000010",
+  "fecha": "20250628",
+  "hora": "235727",
+  "costo": 1.3834942266666665
+}
+29/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "765432102",
+  "duracion": "000141",
+  "fecha": "20250629",
+  "hora": "214119",
+  "costo": 13.521009293333332
+}
+29/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "551234567",
+  "duracion": "000006",
+  "fecha": "20250629",
+  "hora": "214659",
+  "costo": 0.0
+}
+29/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "87654321",
+  "duracion": "000003",
+  "fecha": "20250629",
+  "hora": "221744",
+  "costo": 0.4124435733333333
+}
+29/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "9",
+  "duracion": "223427",
+  "fecha": "20250629",
+  "hora": "223427",
+  "costo": 0.0
+}
+29/06/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "#909*",
+  "duracion": "224517",
+  "fecha": "20250629",
+  "hora": "224517",
+  "costo": 0.0
+}
+02/07/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "88765432",
+  "duracion": "000012",
+  "fecha": "20250702",
+  "hora": "145129",
+  "costo": 16.807901746655237
+}

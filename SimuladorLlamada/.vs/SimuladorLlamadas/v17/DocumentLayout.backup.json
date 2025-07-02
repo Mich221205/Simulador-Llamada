@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Michel\\Downloads\\SimuladorLlamada\\SimuladorLlamada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B54E10-3CDA-4526-925B-EC3A6A290F46}|SimuladorLlamadas.csproj|c:\\users\\michel\\downloads\\simuladorllamada\\simuladorllamada\\frmsimuladorllamadas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B54E10-3CDA-4526-925B-EC3A6A290F46}|SimuladorLlamadas.csproj|solutionrelative:frmsimuladorllamadas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B54E10-3CDA-4526-925B-EC3A6A290F46}|SimuladorLlamadas.csproj|c:\\users\\michel\\downloads\\simuladorllamada\\simuladorllamada\\simuladorutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B54E10-3CDA-4526-925B-EC3A6A290F46}|SimuladorLlamadas.csproj|solutionrelative:simuladorutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B54E10-3CDA-4526-925B-EC3A6A290F46}|SimuladorLlamadas.csproj|c:\\users\\michel\\downloads\\simuladorllamada\\simuladorllamada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B54E10-3CDA-4526-925B-EC3A6A290F46}|SimuladorLlamadas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimuladorUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Michel\\Downloads\\SimuladorLlamada\\SimuladorLlamada\\SimuladorUtils.cs",
+              "RelativeDocumentMoniker": "SimuladorUtils.cs",
+              "ToolTip": "C:\\Users\\Michel\\Downloads\\SimuladorLlamada\\SimuladorLlamada\\SimuladorUtils.cs",
+              "RelativeToolTip": "SimuladorUtils.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAqwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:25:35.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Michel\\Downloads\\SimuladorLlamada\\SimuladorLlamada\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Michel\\Downloads\\SimuladorLlamada\\SimuladorLlamada\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:48:16.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmSimuladorLlamadas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Michel\\Downloads\\SimuladorLlamada\\SimuladorLlamada\\FrmSimuladorLlamadas.Designer.cs",
+              "RelativeDocumentMoniker": "FrmSimuladorLlamadas.Designer.cs",
+              "ToolTip": "C:\\Users\\Michel\\Downloads\\SimuladorLlamada\\SimuladorLlamada\\FrmSimuladorLlamadas.Designer.cs",
+              "RelativeToolTip": "FrmSimuladorLlamadas.Designer.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAuwGMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:45:54.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 43,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

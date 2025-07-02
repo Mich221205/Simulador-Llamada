@@ -1,0 +1,73 @@
+C:\Users\User\OneDrive - Universidad Nacional de Costa Rica\Escritorio\SimuladorLlamadas\SimuladorLlamadas\obj\Debug\net8.0-windows\SimuladorLlamadas.FrmSimuladorLlamadas.resources
+C:\Users\User\OneDrive - Universidad Nacional de Costa Rica\Escritorio\SimuladorLlamadas\SimuladorLlamadas\obj\Debug\net8.0-windows\SimuladorLlamadas.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - Universidad Nacional de Costa Rica\Escritorio\SimuladorLlamadas\SimuladorLlamadas\obj\Debug\net8.0-windows\SimuladorLlamadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Universidad Nacional de Costa Rica\Escritorio\SimuladorLlamadas\SimuladorLlamadas\obj\Debug\net8.0-windows\SimuladorLlamadas.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Universidad Nacional de Costa Rica\Escritorio\SimuladorLlamadas\SimuladorLlamadas\obj\Debug\net8.0-windows\SimuladorLlamadas.AssemblyInfo.cs
+C:\Users\User\OneDrive - Universidad Nacional de Costa Rica\Escritorio\SimuladorLlamadas\SimuladorLlamadas\obj\Debug\net8.0-windows\SimuladorLlamadas.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Universidad Nacional de Costa Rica\Escritorio\SimuladorLlamadas\SimuladorLlamadas\bin\Debug\net8.0-windows\SimuladorLlamadas.exe
+C:\Users\User\OneDrive - Universidad Nacional de Costa Rica\Escritorio\SimuladorLlamadas\SimuladorLlamadas\bin\Debug\net8.0-windows\SimuladorLlamadas.deps.json
+C:\Users\User\OneDrive - Universidad Nacional de Costa Rica\Escritorio\SimuladorLlamadas\SimuladorLlamadas\bin\Debug\net8.0-windows\SimuladorLlamadas.runtimeconfig.json
+C:\Users\User\OneDrive - Universidad Nacional de Costa Rica\Escritorio\SimuladorLlamadas\SimuladorLlamadas\bin\Debug\net8.0-windows\SimuladorLlamadas.dll
+C:\Users\User\OneDrive - Universidad Nacional de Costa Rica\Escritorio\SimuladorLlamadas\SimuladorLlamadas\bin\Debug\net8.0-windows\SimuladorLlamadas.pdb
+C:\Users\User\OneDrive - Universidad Nacional de Costa Rica\Escritorio\SimuladorLlamadas\SimuladorLlamadas\obj\Debug\net8.0-windows\SimuladorLlamadas.dll
+C:\Users\User\OneDrive - Universidad Nacional de Costa Rica\Escritorio\SimuladorLlamadas\SimuladorLlamadas\obj\Debug\net8.0-windows\refint\SimuladorLlamadas.dll
+C:\Users\User\OneDrive - Universidad Nacional de Costa Rica\Escritorio\SimuladorLlamadas\SimuladorLlamadas\obj\Debug\net8.0-windows\SimuladorLlamadas.pdb
+C:\Users\User\OneDrive - Universidad Nacional de Costa Rica\Escritorio\SimuladorLlamadas\SimuladorLlamadas\obj\Debug\net8.0-windows\SimuladorLlamadas.genruntimeconfig.cache
+C:\Users\User\OneDrive - Universidad Nacional de Costa Rica\Escritorio\SimuladorLlamadas\SimuladorLlamadas\obj\Debug\net8.0-windows\ref\SimuladorLlamadas.dll
+C:\Users\jota2\source\repos\SimuladorLlamada\bin\Debug\net8.0-windows\SimuladorLlamadas.exe
+C:\Users\jota2\source\repos\SimuladorLlamada\bin\Debug\net8.0-windows\SimuladorLlamadas.deps.json
+C:\Users\jota2\source\repos\SimuladorLlamada\bin\Debug\net8.0-windows\SimuladorLlamadas.runtimeconfig.json
+C:\Users\jota2\source\repos\SimuladorLlamada\bin\Debug\net8.0-windows\SimuladorLlamadas.dll
+C:\Users\jota2\source\repos\SimuladorLlamada\bin\Debug\net8.0-windows\SimuladorLlamadas.pdb
+C:\Users\jota2\source\repos\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.FrmSimuladorLlamadas.resources
+C:\Users\jota2\source\repos\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.csproj.GenerateResource.cache
+C:\Users\jota2\source\repos\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jota2\source\repos\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.AssemblyInfoInputs.cache
+C:\Users\jota2\source\repos\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.AssemblyInfo.cs
+C:\Users\jota2\source\repos\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.csproj.CoreCompileInputs.cache
+C:\Users\jota2\source\repos\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.dll
+C:\Users\jota2\source\repos\SimuladorLlamada\obj\Debug\net8.0-windows\refint\SimuladorLlamadas.dll
+C:\Users\jota2\source\repos\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.pdb
+C:\Users\jota2\source\repos\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.genruntimeconfig.cache
+C:\Users\jota2\source\repos\SimuladorLlamada\obj\Debug\net8.0-windows\ref\SimuladorLlamadas.dll
+C:\Users\jota2\source\repos\SimuladorLlamada\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\jota2\source\repos\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.csproj.AssemblyReference.cache
+C:\Users\jota2\source\repos\SimuladorLlamada\obj\Debug\net8.0-windows\Simulado.5D388EBA.Up2Date
+C:\Users\Michel\Downloads\SimuladorLlamada\bin\Debug\net8.0-windows\SimuladorLlamadas.exe
+C:\Users\Michel\Downloads\SimuladorLlamada\bin\Debug\net8.0-windows\SimuladorLlamadas.deps.json
+C:\Users\Michel\Downloads\SimuladorLlamada\bin\Debug\net8.0-windows\SimuladorLlamadas.runtimeconfig.json
+C:\Users\Michel\Downloads\SimuladorLlamada\bin\Debug\net8.0-windows\SimuladorLlamadas.dll
+C:\Users\Michel\Downloads\SimuladorLlamada\bin\Debug\net8.0-windows\SimuladorLlamadas.pdb
+C:\Users\Michel\Downloads\SimuladorLlamada\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Michel\Downloads\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.csproj.AssemblyReference.cache
+C:\Users\Michel\Downloads\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.FrmSimuladorLlamadas.resources
+C:\Users\Michel\Downloads\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.csproj.GenerateResource.cache
+C:\Users\Michel\Downloads\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel\Downloads\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.AssemblyInfoInputs.cache
+C:\Users\Michel\Downloads\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.AssemblyInfo.cs
+C:\Users\Michel\Downloads\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Downloads\SimuladorLlamada\obj\Debug\net8.0-windows\Simulado.5D388EBA.Up2Date
+C:\Users\Michel\Downloads\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.dll
+C:\Users\Michel\Downloads\SimuladorLlamada\obj\Debug\net8.0-windows\refint\SimuladorLlamadas.dll
+C:\Users\Michel\Downloads\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.pdb
+C:\Users\Michel\Downloads\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.genruntimeconfig.cache
+C:\Users\Michel\Downloads\SimuladorLlamada\obj\Debug\net8.0-windows\ref\SimuladorLlamadas.dll
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\bin\Debug\net8.0-windows\SimuladorLlamadas.exe
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\bin\Debug\net8.0-windows\SimuladorLlamadas.deps.json
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\bin\Debug\net8.0-windows\SimuladorLlamadas.runtimeconfig.json
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\bin\Debug\net8.0-windows\SimuladorLlamadas.dll
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\bin\Debug\net8.0-windows\SimuladorLlamadas.pdb
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.csproj.AssemblyReference.cache
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.FrmSimuladorLlamadas.resources
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.csproj.GenerateResource.cache
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.AssemblyInfoInputs.cache
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.AssemblyInfo.cs
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\obj\Debug\net8.0-windows\Simulado.5D388EBA.Up2Date
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.dll
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\obj\Debug\net8.0-windows\refint\SimuladorLlamadas.dll
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.pdb
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\obj\Debug\net8.0-windows\SimuladorLlamadas.genruntimeconfig.cache
+C:\Users\Michel\Downloads\SimuladorLlamada\SimuladorLlamada\obj\Debug\net8.0-windows\ref\SimuladorLlamadas.dll
