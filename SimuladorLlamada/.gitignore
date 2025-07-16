@@ -1,0 +1,10 @@
+# Visual Studio y .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vsidx
+*.pdb
+*.cache
+*.log

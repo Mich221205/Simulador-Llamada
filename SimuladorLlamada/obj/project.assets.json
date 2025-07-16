@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Michel\\Downloads\\SimuladorLlamada\\SimuladorLlamada\\SimuladorLlamadas.csproj",
+      "projectUniqueName": "C:\\Users\\Michel\\workspace\\SimuladorLlamada\\SimuladorLlamada\\SimuladorLlamadas.csproj",
       "projectName": "SimuladorLlamadas",
-      "projectPath": "C:\\Users\\Michel\\Downloads\\SimuladorLlamada\\SimuladorLlamada\\SimuladorLlamadas.csproj",
+      "projectPath": "C:\\Users\\Michel\\workspace\\SimuladorLlamada\\SimuladorLlamada\\SimuladorLlamadas.csproj",
       "packagesPath": "C:\\Users\\Michel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Michel\\Downloads\\SimuladorLlamada\\SimuladorLlamada\\obj\\",
+      "outputPath": "C:\\Users\\Michel\\workspace\\SimuladorLlamada\\SimuladorLlamada\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

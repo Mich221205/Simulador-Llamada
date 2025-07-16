@@ -387,3 +387,27 @@
   "hora": "145129",
   "costo": 16.807901746655237
 }
+15/07/2025: {
+  "telefonoOrigen": "88997766",
+  "idTelefono": "8423456789012383",
+  "idTarjeta": "8423456789012345672",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "88765432",
+  "duracion": "000010",
+  "fecha": "20250715",
+  "hora": "235333",
+  "costo": 13.112462861097939
+}
+15/07/2025: {
+  "telefonoOrigen": "88765432",
+  "idTelefono": "1234567890123456",
+  "idTarjeta": "1234567890123456789",
+  "coordenadas": "9.9333,-84.0833",
+  "Transaccion": "finalización",
+  "destino": "88765432",
+  "duracion": "000023",
+  "fecha": "20250715",
+  "hora": "235336",
+  "costo": 31.128587408904135
+}

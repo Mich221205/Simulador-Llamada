@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\jota2\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\jota2\\.nuget\\packages",
+      "C:\\Users\\Michel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Michel\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimuladorLlamadas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0509270d57b977675804a69c98b215aa4bc2f639")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimuladorLlamadas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimuladorLlamadas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
